@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.blueD {
+    color: #22668D;
+}
+
+.bgBlueD {
+    background-color: #22668D;
+}
+
+.bgBlueC {
+    background-color: #4F709C;
+}
